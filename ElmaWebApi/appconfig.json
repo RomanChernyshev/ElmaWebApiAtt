@@ -1,0 +1,14 @@
+{
+  "FileWatchPathes": [
+    "R:\\WebApiSAtt\\ElmaWebApiAtt\\Test"
+  ],
+  "ExternalApi": [
+    {
+      "Url": "http://localhost/API/REST/",
+      "ClientIdentifier": "ElmaRestClient",
+      "Login": "admin",
+      "Password": "",
+      "ApplicationToken": "B94493FC2EDEC6ABDAB6BC251F83BA2EE832FA170697B7C0C1F82D1096A1F1E287DBBE1BF2F15B2AE90155204F4FBCED2C3C1F55C006DE5CE3120903749E8727"
+    }
+  ]
+}
